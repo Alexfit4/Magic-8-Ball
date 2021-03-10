@@ -1,4 +1,6 @@
 # Magic 8 Ball
+- Deployed Website: https://alexfit4.github.io/Magic-8-Ball/
+- Github Repo: https://github.com/Alexfit4/Magic-8-Ball
 ## Description
 Enter your question and the Magic 8 Ball will answer!
 ## Table of Contents
